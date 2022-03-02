@@ -29,6 +29,7 @@ console = Console()
 layout = Layout()
 console.log("Hello! Da ba dee da ba di~")
 
+
 try:
     os.system('pip install visidata==2.4')
     os.system('pip install fabulous')
